@@ -1,4 +1,4 @@
-/*TESTE4545%
+/*TESTE CAIO SILVEIRA%
 
 const SIZE = 100;
 const colors = {
