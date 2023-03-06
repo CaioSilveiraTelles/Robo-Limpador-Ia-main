@@ -1,4 +1,4 @@
-/*TESTE/%
+/*TESTE4545%
 
 const SIZE = 100;
 const colors = {
